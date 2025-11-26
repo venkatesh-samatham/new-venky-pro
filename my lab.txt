@@ -1,0 +1,11 @@
+what is git ?
+git is a distributed version control  system its stores the changed tha data files and modified files and its stored  repository
+amd git is command line promnt in this git work follows the foure stages 
+working area 
+staging area 
+local repo 
+hub repo
+these are the main stages by using git 
+
+what is git hub ?
+git hub is  a one of the repository and this is also stored the modified files its also cloud version control
