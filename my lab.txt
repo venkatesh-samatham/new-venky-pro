@@ -9,3 +9,28 @@ these are the main stages by using git
 
 what is git hub ?
 git hub is  a one of the repository and this is also stored the modified files its also cloud version control
+
+
+what is git repository ?
+git repository is a storage where your in project files and full history off track changes it incluid meta data and traccked files and initalged applications also have incluid 
+
+
+what is git clone ?
+clone is  nothing but where your stored git hub clone means cpoy our fle or data by using this command and git command also for example 
+git clone "url"
+this command used by clone our data into our local system
+
+git add 
+its affter completion work in working area our should be move from staging area by using this command 
+git add . 
+all  current files like on the fills modified fills should move to staging area 
+git add "file name" ==> only that perticular should send to staging area 
+ git add --all==> all fills would send
+ 
+git commit 
+git commit uses to how many also or modifyd and trackes by using just msg perpus  commit msg waitting for staging area 
+git commit -m "msg"
+if you dont use its but which fille are modified its not track to easy incace use this command its easy to track the chances 
+and its store the data into the snapshot our msg 
+after msg is commited its move to staging area into local repo
+
